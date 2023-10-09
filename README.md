@@ -1,4 +1,13 @@
 ### Hi there 👋
+I am a programmer who is focused on full stack development of html, css, php, js, mysql, c++, TypeScript as well as frameworks like node, tailwind, react, angular, ajax. At the moment I am studying at school for adults to go to college and receive further formal education, despite the abundance of my skills and experience, I have never received a formal education.
+
+If you wanna hire me in part time but so that I don't have problems studying at an adult school when contact me, but remember i spend about 7 hours' per day in education and could spend maximum 3h on work, not more.
+
+I'm interested in interface development.
+
+Also in optimizing the backend code to increase server response speed.
+
+
 
 <!--
 **sykaax/sykaax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
