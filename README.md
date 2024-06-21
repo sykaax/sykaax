@@ -7,7 +7,7 @@ I'm interested in interface development.
 
 Also in optimizing the backend code to increase server response speed.
 
-
+sykaax@gmail.com
 
 <!--
 **sykaax/sykaax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
